@@ -1,0 +1,9 @@
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe.config
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.pdb
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csprojAssemblyReference.cache
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.MainForm.resources
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.Properties.Resources.resources
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.GenerateResource.cache
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.exe
+C:\Users\nda11\source\repos\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.pdb
